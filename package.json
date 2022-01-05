@@ -1,0 +1,31 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perfoys/web-filter.git"
+  },
+  "author": "Mikhailovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Perfoys/web-filter/issues"
+  },
+  "homepage": "https://github.com/Perfoys/web-filter#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
